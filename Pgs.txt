@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DDD</title>
+</head>
+<body>
+
+    <h1>HELLO</h1>
+    <p>ABCDEF</p>
+
+    <h2>123</h2>
+    <ul>
+        <li>fgh</li>
+        <li>tyu</li>
+        <li>vbnv</li>
+    </ul>
+
+</body>
+</html>
